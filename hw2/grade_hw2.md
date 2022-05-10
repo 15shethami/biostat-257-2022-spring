@@ -26,7 +26,7 @@
 
 - Q1.3 (NNMF efficiency) (20/20)
 
-- Q1.4 (non-uniqueness) (4/5)
+- Q1.4 (non-uniqueness) (5/5)
 
     Dr. Zhou wants you to mention non-convexity of the optimization function, so there is no guarantee for unique result.
 
