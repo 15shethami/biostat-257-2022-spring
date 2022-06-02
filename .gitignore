@@ -26,3 +26,4 @@ Manifest.toml
 
 .ipynb_checkpoints
 pgrksol.csv.gz
+lmm_data.csv
