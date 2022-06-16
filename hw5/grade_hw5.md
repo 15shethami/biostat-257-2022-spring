@@ -1,6 +1,6 @@
 *Ami Sheth*
 
-### Overall Grade: 165/160
+### Overall Grade: 175/160
 
 ### Quality of report: 10/10
 
@@ -20,7 +20,7 @@
 
     Yes
   
-### Completeness, correctness and efficiency of solution: 115/110
+### Completeness, correctness and efficiency of solution: 125/110
 
 - Q1 (Optional, 15/30 bonus pts). 
 
@@ -36,9 +36,9 @@
 
 - Q7 (20 pts). 
 
-- Q8 (5/10 pts).  No summary sentence. `-5`.
+- Q8 (10 pts).  
 
-- Q9 (5/10 pts). No summary sentence. `-5`.
+- Q9 (10 pts). 
 
 	    
 ### Usage of Git: 10/10
